@@ -1,10 +1,10 @@
 <div align="center">
 
-  <h2>👋 Hi, I’m Serhii</h2>
+  <h2>👋 Hi, I’m Miro</h2>
 
   <p>
     I'm a Web & Mobile Developer from Ukraine. <br>
-    Building seamless experiences with <b>React</b>, <b>React Native</b>, and <b>WordPress</b>. <br>
+    Building seamless experiences with <b>React</b> and <b>React Native</b>. <br>
     <i>Always hungry to keep learning.</i>
   </p>
 
