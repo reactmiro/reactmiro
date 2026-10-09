@@ -22,7 +22,7 @@
   <h3>📊 My GitHub Stats</h3>
   <p>
     <a href="https://github.com/wpmiro">
-      <img src="https://github-readme-stats.vercel.app/api?username=wpmiro&show_icons=true&bg_color=00000000&hide_border=true" alt="Serhii's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=reactmiro&show_icons=true&bg_color=00000000&hide_border=true" alt="Miro's GitHub stats" />
     </a>
   </p>
 
